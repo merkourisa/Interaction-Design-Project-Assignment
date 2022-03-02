@@ -1,6 +1,6 @@
 # Interaction Design-Project Assignment
 
-The purpose of this project assignment is to design and create interactive tangible objects. You will use [Arduino](https://www.arduino.cc/) an open source toolkit.
+The purpose of this project assignment is to design and prototype interactive tangible objects. You will use [Arduino](https://www.arduino.cc/) an open source toolkit.
 
 ## Initial Settings
 - You must first create a [Github](https://github.com/) account, using the university email, and then fork the [repository](https://github.com/merkourisa/Interaction-Design-Project-Assignment).
@@ -14,6 +14,22 @@ The purpose of this project assignment is to design and create interactive tangi
  
 **Attention:** Examples & Ideas will be discussed during class!!!
 
+## Steps to consider for the final submission (+ importance):
+1.	Design Brief (Short description of the project: main goals) (1/2 page max)
+2.	Research (Based on PACT) (2 pages max):
+    1.	Analyse People (users and other stakeholders, define target group - Which are your users)
+    2.	Define activities (What users do before your project!)
+    3.	Describe context (What are the contextual information we have before the intervention)
+    4.	Review needed technologies (locate and analyse similar projects, collect technologies that you plan to use:     platform/Arduino etc, sensors, actuators, software etc)
+3.	Information architecture (outline the major information components/content and their organisation) (2 pages max)
+4.	User Interaction (Plan and analyse new interaction behaviour based on the activities described on step 2.2) (1 page max)
+5.	Interface design (Outline interface components - Define each component's role, behaviour, relation to other) (1 page max)
+6.	Scenarios & Storyboarding (Prepare short scenarios focused on specific activities, create storyboards that present activities in action)(1 pages max)
+7.	Prototyping (Create a prototype based on a single scenario)(2 pages max)
+
+## Report
+In each deliverable, you should also modify your personal [report](my_report/README.md), describing in detail what have you done in each deliverable.
+
 ## Grading 
 The group assignment will contribute up to 5 points in the grade. Each member of the team will get the same grade.
 
@@ -23,8 +39,6 @@ The group assignment will contribute up to 5 points in the grade. Each member of
 - [deliverable 2](https://github.com/merkourisa/Augmented-Reality/issues/2): until 29/04/2022
 - [deliverable 3](https://github.com/merkourisa/Augmented-Reality/issues/3): until 03/06/2022
 
-## Report
-In each deliverable, you should also modify your personal [report](my_report/README.md), describing in detail what have you done in each deliverable.
 
 ## Questions
 

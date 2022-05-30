@@ -30,7 +30,7 @@ The purpose of this project assignment is to design and prototype interactive ta
 ## Deadlines
 - **Deliverable 1**  (Steps 1-2):   until 04/04/2022 
 - **Deliverable 2**  (Steps 3-5):   until 09/05/2022
-- **Deliverable 3**  (Steps 6-7):   until 03/06/2022
+- **Deliverable 3**  (Steps 6-7):   until 09/06/2022
 
 ## Grading 
 The group assignment will contribute up to 5 points in the grade. Each member of the team will get the same grade.
